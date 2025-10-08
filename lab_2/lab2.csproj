@@ -8,10 +8,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="Product.cs" />
-    <Compile Include="BinaryTree.cs" />
-    <Compile Include="Program.cs" />
-  </ItemGroup>
-
 </Project>
