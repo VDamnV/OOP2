@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "Name": "Grand Plaza Hotel",
+    "Description": "Розкішний готель у центрі міста з видом на річку.",
+    "Rooms": [
+      {
+        "RoomNumber": 101,
+        "Type": "Standard",
+        "PricePerNight": 100.00,
+        "Capacity": 2
+      },
+      {
+        "RoomNumber": 102,
+        "Type": "Deluxe",
+        "PricePerNight": 120.00,
+        "Capacity": 2
+      },
+      {
+        "RoomNumber": 201,
+        "Type": "Suite",
+        "PricePerNight": 250.00,
+        "Capacity": 4
+      }
+    ],
+    "Applications": [
+      {
+        "Id": 1,
+        "RoomType": "Standard",
+        "StartDate": "2024-09-01T00:00:00",
+        "EndDate": "2024-09-05T00:00:00",
+        "RequestText": "Потрібен тихий номер з видом на місто."
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Sunny Resort",
+    "Description": "Курортний готель біля моря, ідеально підходить для сімейного відпочинку.",
+    "Rooms": [
+      {
+        "RoomNumber": 201,
+        "Type": "Standard",
+        "PricePerNight": 80.00,
+        "Capacity": 2
+      },
+      {
+        "RoomNumber": 205,
+        "Type": "Family",
+        "PricePerNight": 150.00,
+        "Capacity": 4
+      }
+    ],
+    "Applications": []
+  }
+]
